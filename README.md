@@ -30,19 +30,19 @@ Experimental Procedure:
 1. Arrange the equipment as shown in picture above
 2. Use the mass scale to measure the mass of the dynamics cart (M) with string and the hanging 
 mass (m). Record the values of M & min data sheet table.
-3.Attach the hanging mass to the cart. Make sure the string is long enough so that the entire 
+3. Attach the hanging mass to the cart. Make sure the string is long enough so that the entire 
 cart successfully goes through the photogate before the hanging mass hits the floor
-4.Adjust air blower as demonstrated by the instructor to make the track frictionless.
-5.. Adjust the photogates so that they are 20 cm apart. Adjust the heights of the photogates so 
+4. Adjust air blower as demonstrated by the instructor to make the track frictionless.
+5. Adjust the photogates so that they are 20 cm apart. Adjust the heights of the photogates so 
 that they are triggered by the same portion of the photogate sail
-6.Pull the cart back to the first photogate and press the reset key on the Smart Timer to ready 
+6. Pull the cart back to the first photogate and press the reset key on the Smart Timer to ready 
 the timer
-7.Release the cart. The travelling time (t1) through the selected distance (X) should appear on 
+7. Release the cart. The travelling time (t1) through the selected distance (X) should appear on 
 the Smart Timer, record the value of (t1) in data sheet table. And then for trial 2 record (t2) 
 in the table.
-8.Repeat steps 4, 5 & 6 for different distances (40-60-80-100 cm)
-9.Find the average time for each distance and record it in the table. 
-10.. Plot distance t^2 in x axis versus x in y axis, fit the data with a straight-line crossing (0,0) 
+8. Repeat steps 4, 5 & 6 for different distances (40-60-80-100 cm)
+9. Find the average time for each distance and record it in the table. 
+10.  Plot distance t^2 in x axis versus x in y axis, fit the data with a straight-line crossing (0,0) 
 then calculate the slope
-11.Calculate the acceleration aexp  and compare this value with the 
+11. Calculate the acceleration aexp  and compare this value with the 
 theoretical acceleration ath by computing the percent difference between these two values
